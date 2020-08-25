@@ -24,7 +24,7 @@ import com.qualcomm.robotcore.util.Range;
 
 @TeleOp(name="PartnershipCode5015")
 
-public class PartnershipCode5015 extends OpMode
+public class PartnershipCodeTeleOP5015 extends OpMode
 {
     // Declare OpMode members.
     private ElapsedTime runtime = new ElapsedTime();
